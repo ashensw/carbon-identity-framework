@@ -60,6 +60,7 @@ import org.wso2.carbon.user.mgt.UserRealmProxy;
 import org.wso2.carbon.user.mgt.common.UIPermissionNode;
 import org.wso2.carbon.user.mgt.common.UserAdminException;
 
+import javax.xml.namespace.QName;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
